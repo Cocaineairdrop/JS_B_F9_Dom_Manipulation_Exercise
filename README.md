@@ -1,6 +1,8 @@
 # JS_B_F9_Dom_Manipulation_Exercise
 
 Exercise
+
+
 Copy the example above into files on your own computer. To make it work, you’ll need to supply the rest of the HTML skeleton and either link your JavaScript file or put the JavaScript into a script tag on the page. Make sure everything is working before moving on!
 
 Add the following elements to the container using ONLY JavaScript and the DOM methods shown above:
